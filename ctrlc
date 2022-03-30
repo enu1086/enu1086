@@ -7,4 +7,8 @@
 <!---
 enu1086/enu1086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+int main()
+{
+    printf("Hello 123/9\n");
+    return 0;
+}
